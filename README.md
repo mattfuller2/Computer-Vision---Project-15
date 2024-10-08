@@ -28,8 +28,7 @@ To run the project, ensure that you have Python and the necessary libraries inst
   - numpy
   - matplotlib
   - scikit-learn
-  - [any additional libraries used in the notebook]
-
+    
 To install the required libraries, run the following command:
 
 ```bash
